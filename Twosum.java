@@ -17,8 +17,9 @@ public class Twosum {
         }
 
       }
-      i++;
-    }
 
+      i++;
+
+    }
   }
 }
