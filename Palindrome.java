@@ -1,6 +1,6 @@
 public class Palindrome {
   public static void main(String[] args) {
-    Integer x = 111222211;
+    Integer x = 121;
     String y = x.toString();
 
     StringBuilder compare = new StringBuilder();
